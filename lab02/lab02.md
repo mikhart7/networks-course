@@ -62,8 +62,12 @@
 запросы и ответы со стороны сервиса для **всех** его операций.
 
 #### Демонстрация работы
-todo
-
+![Alt text](1.png "Optional title")
+![Alt text](2.png "Optional title")
+![Alt text](3.png "Optional title")
+![Alt text](4.png "Optional title")
+![Alt text](5.png "Optional title")
+![Alt text](6.png "Optional title")
 ### Задание В (4 балла)
 Пусть ваш продукт также имеет иконку (небольшую картинку). Формат иконки (картинки) может
 быть любым на ваш выбор. Для простоты будем считать, что у каждого продукта картинка одна.
@@ -84,7 +88,7 @@ todo
 ```
 
 #### Демонстрация работы
-todo
+![Alt text](7.png "Optional title")
 
 ---
 
